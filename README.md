@@ -2,4 +2,5 @@
 Examen de Alessandre de git
 
 ## Funcionalidad Registro-usuarios
-Funcion para registrar usuarios
+Funcion para registrar usuarios de el dia de hoy. 
+
