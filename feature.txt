@@ -1,0 +1,8 @@
+-Nombre de la funcionalidad.
+Registro usuarios
+- Nombre del desarrollador.
+Alessandre
+- Descripcion de la funcionalidad.
+Funcion para registrar usuarios
+- Fecha de desarrollo.
+01-Oct-2026
